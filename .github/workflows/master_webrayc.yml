@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'webrayc'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A22F2620EBAE456FB7BFF3460F63E691 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_47E2CDD47E624F85BB5ABF6B6A725467 }}
           package: .
